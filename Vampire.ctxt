@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Vampire
+comment1.params=
+comment1.target=void\ reader()
+comment2.params=
+comment2.target=void\ check1()
+comment3.params=
+comment3.target=void\ Generator()
+comment4.params=a1
+comment4.target=void\ check2(int)
+comment5.params=x\ y
+comment5.target=void\ factor(int,\ int)
+comment6.params=n1\ n2\ o
+comment6.target=void\ check3(int,\ int,\ int)
+comment7.params=s2\ o
+comment7.target=void\ check4(java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ end()
+comment9.params=
+comment9.target=void\ main()
+numComments=10

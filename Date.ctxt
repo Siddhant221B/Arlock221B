@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Date
+comment1.params=
+comment1.target=Date()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ check()
+comment4.params=
+comment4.target=void\ generate()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

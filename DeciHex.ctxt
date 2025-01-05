@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DeciHex
+comment1.params=
+comment1.target=DeciHex()
+comment2.params=
+comment2.target=void\ getNum()
+comment3.params=n
+comment3.target=void\ convert(int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

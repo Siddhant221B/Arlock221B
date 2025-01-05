@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShiftZero
+comment1.params=
+comment1.target=void\ Readnumber()
+comment2.params=
+comment2.target=void\ Shift()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=b
+comment4.target=int\ count(int)
+comment5.params=a
+comment5.target=int\ checkduck(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
